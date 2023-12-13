@@ -1,0 +1,86 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Mohamed Aldakhil
+ID:      169072233
+Email:   alda2233@mylaurier.ca
+Version: 2023-09-10
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a sentence without spaces but with uppercase starting characters: StopAndSmellTheRoses.
+Stop and smell the roses.
+
+Enter a sentence without spaces but with uppercase starting characters: TheKing
+The king
+
+Enter a sentence without spaces but with uppercase starting characters: CornAndSyrup
+Corn and syrup
+
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a word to pluralize: city
+cities
+
+Enter a word to pluralize: student
+students
+
+Enter a word to pluralize: cat
+cats
+
+
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter the first string: running
+Enter the second string: jumping
+ing
+
+
+Enter the first string: fly
+Enter the second string: try
+y
+
+Enter the first string: high
+Enter the second string: ligh
+igh
+
+
+
+
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter an ISBN: 978-3-12148410--0
+False
+
+Enter an ISBN: 978-3-16-148410-0
+False
+
+Enter an ISBN: 456
+False
+
+
+
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a list of words separated by spaces: camel leopard dog giraffe elepjant
+True
+
+Enter a list of words separated by spaces: dog cat
+False
+
+Enter a list of words separated by spaces: hat
+True
+
+
+-------------------------------------------------------
